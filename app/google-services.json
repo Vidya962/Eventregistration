@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "582591485851",
+    "project_id": "eventregistration-feaf1",
+    "storage_bucket": "eventregistration-feaf1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582591485851:android:3f5b331b14967dbc85733e",
+        "android_client_info": {
+          "package_name": "com.example.eventregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582591485851-222kutgdnc7833jf1bd9kcqont46q2ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDASxjjUEBFlDZcG-_B1kwBgZdd0gNIDJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582591485851-222kutgdnc7833jf1bd9kcqont46q2ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

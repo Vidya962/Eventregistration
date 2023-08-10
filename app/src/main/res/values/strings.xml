@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EventRegistration</string>
+
+    <string-array name="passes">
+        <item>Contributors Day+Main Event</item>
+        <item>Main Event only</item>
+        <item>All Days+VIP Access to Insiders Club</item>
+
+    </string-array>
+    <string-array name="Medias">
+        <item>Google</item>
+        <item>Social Media</item>
+        <item>Friends</item>
+        <item>Advertisement</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
